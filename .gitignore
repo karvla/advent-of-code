@@ -1,3 +1,7 @@
 puzzle.md
 target
+example_input.txt
+prompt.md
+input.txt
 .DS_store
+__pycache__
